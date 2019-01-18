@@ -1,6 +1,6 @@
 # Frappe Charts with React
 
-Copy the react component as in `chart.js`
+Copy the react component as in `Graph.js`
 
 And now include and use the created React component (dont forget to include the
 css):
